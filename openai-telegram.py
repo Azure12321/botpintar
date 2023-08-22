@@ -2,8 +2,8 @@
 import openai
 from aiogram import Bot, Dispatcher, types, executor
 
-bot_tkn = '6257940664:AAFVnJUI5UcDC7mym3bwzb8a5h3GI1kFHBw'
-openai.api_key = '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'
+bot_tkn = '6536595310:AAEEBRUZoB5edG4xexWD8VZUCQVGeGFpC28'
+openai.api_key = 'd7394561-0528-4714-a1ee-edd7020b48e1'
 
 bot = Bot(token=bot_tkn)
 dp = Dispatcher(bot=bot)
